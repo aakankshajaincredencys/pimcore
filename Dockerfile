@@ -16,7 +16,6 @@ RUN apt-get install -yq --no-install-recommends apt-utils \
     php7.2-curl \
     php7.2-fpm \
 	php7.2-common \
-	php7.2-mcrypt \
     php7.2-gd \
     php7.2-ldap \
     php7.2-mbstring \
